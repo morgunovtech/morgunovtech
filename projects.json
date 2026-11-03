@@ -1,0 +1,58 @@
+[
+  {
+    "name": "TofsDevOps",
+    "repo": "Tofs_DevOps_bot",
+    "url": "https://github.com/morgunovtech/Tofs_DevOps_bot",
+    "what": "Your personal DevOps in Telegram: uptime, SSL, DNS, broken links, search and AI-assistant visibility. Fixes what it can and stays quiet while everything is fine.",
+    "for": "Owners of small sites and pet projects without a DevOps person"
+  },
+  {
+    "name": "Found You",
+    "repo": "FoundYou",
+    "url": "https://foundyou.morgunov.tech",
+    "what": "Shows what a photo gives away before you post it — EXIF, GPS, place context — and makes a clean copy. The photo never leaves your browser.",
+    "for": "Anyone who shares photos online"
+  },
+  {
+    "name": "Fingerprint",
+    "repo": "Fingerprint",
+    "url": "https://fprint.morgunov.tech",
+    "what": "Shows what any website learns about you the moment you open it, how unique your browser is, and how to hide.",
+    "for": "People who want to see how they are tracked"
+  },
+  {
+    "name": "Good Pass",
+    "repo": "good-pass",
+    "url": "https://good-pass.pages.dev",
+    "what": "Explains password strength: entropy, crack time, a k-anonymous breach check, a generator and a memory trainer.",
+    "for": "Anyone who wants better passwords without a lecture"
+  },
+  {
+    "name": "Social Tracker Bot",
+    "repo": "social-tracker-bot",
+    "url": "https://github.com/morgunovtech/social-tracker-bot",
+    "what": "Telegram bot that tracks followers on Telegram, YouTube and LinkedIn: weekly reports, trends, forecasts and alerts.",
+    "for": "Creators and professionals growing an audience"
+  },
+  {
+    "name": "morgunov.tech",
+    "repo": "about-me-page",
+    "url": "https://s.morgunov.tech",
+    "what": "My site: zero-build pages, an edge CMS on Cloudflare Pages, KV and R2, and the design system the other projects share.",
+    "for": "People who want to know who I am or work with me"
+  },
+  {
+    "name": "Lenses",
+    "repo": "SocialProfile",
+    "url": "",
+    "what": "CLI that audits a person's public digital footprint through six perception lenses.",
+    "for": "People checking how they look online"
+  },
+  {
+    "name": "LatteDrop",
+    "repo": "LatteDrop",
+    "url": "https://github.com/morgunovtech/LatteDrop",
+    "what": "Beat-accurate music visualizer for macOS in the spirit of MilkDrop. Specification stage.",
+    "for": "Me — a personal tool, built in the open"
+  }
+]
