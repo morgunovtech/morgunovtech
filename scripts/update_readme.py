@@ -46,7 +46,7 @@ def previous_dates(readme: str) -> dict[str, str]:
     """Last dates already in the table, keyed by project name."""
     dates = {}
     for line in readme.splitlines():
-        m = re.match(r"\| \*\*\[?([^\]|*]+)\]?.*\| (\d{4}-\d{2}-\d{2}|—) \|$", line)
+        m = re.match(r"\| \*\*\[?([^\]|*]+)\]?.*\| (\d{4}[-‑]\d{2}[-‑]\d{2}|—) \|$", line)
         if m:
             dates[m.group(1).strip()] = m.group(2)
     return dates
@@ -65,7 +65,8 @@ def render(projects: list[dict], info: dict, old: dict[str, str]) -> str:
             code = f"[Open source]({'https://github.com/' + OWNER + '/' + p['repo']}) · {lic}"
         else:
             code = "Closed source"
-        updated = repo["pushedAt"][:10] if repo else old.get(p["name"], "—")
+        # Non-breaking hyphens keep the date on one line in a narrow column.
+        updated = repo["pushedAt"][:10].replace("-", "\u2011") if repo else old.get(p["name"], "—")
         rows.append(f"| **{name}** | {p['what']} | {p['for']} | {code} | {updated} |")
     return "\n".join(rows)
 
