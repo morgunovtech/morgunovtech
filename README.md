@@ -29,3 +29,5 @@ I design the products and write the code with [Claude Code](https://claude.com/c
 - **Privacy by default.** Nothing leaves your device unless the feature can't work otherwise, and the README says exactly what does.
 - **Small stacks.** Python and Telegram for bots that run on their own; vanilla JS or TypeScript on Cloudflare for the web; SQLite at most.
 - **Shipped properly.** Every repository has CI, Dependabot and secret scanning, and every change goes through a pull request.
+
+The long version, with links to the pull requests behind each point: [HOW-I-BUILD.md](HOW-I-BUILD.md) · [по-русски](HOW-I-BUILD.ru.md).
