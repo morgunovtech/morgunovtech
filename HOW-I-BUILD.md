@@ -15,8 +15,8 @@ The products are for myself so far: I close my own tasks and my own risks. They 
 ## The rules live apart from the code
 
 - All my Telegram bots follow one file of principles, kept outside the repositories. Each repository carries the short version ([CONTRIBUTING, "Principles"](https://github.com/morgunovtech/social-tracker-bot/blob/main/CONTRIBUTING.md#principles); [DEVELOPMENT, «Принципы»](https://github.com/morgunovtech/Tofs_DevOps_bot/blob/main/docs/DEVELOPMENT.md#принципы)). A principle changes in that file first, then in the code.
-- Every repository has a `CLAUDE.md` and an `AGENTS.md`: only what an agent needs to know before changing anything — commands, conventions, what not to do. The history lives in `CHANGELOG.md`, not there.
-- A new project starts from a [template](https://github.com/morgunovtech/project-template): a README with the table of what the project creates outside the repo, CI with secret scanning, Dependabot.
+- The repositories the agent works in most carry a `CLAUDE.md` (both bots also an `AGENTS.md` for other agents): only what an agent needs to know before changing anything — commands, conventions, what not to do. Every product's history lives in its `CHANGELOG.md`, not there.
+- A new project starts from a template (a private repository): a README with the table of what the project creates outside the repo, `CLAUDE.md` and `AGENTS.md`, CI with secret scanning, Dependabot.
 
 ## How I state a task
 
