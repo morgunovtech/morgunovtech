@@ -31,7 +31,7 @@
     "name": "Social Tracker Bot",
     "repo": "social-tracker-bot",
     "url": "https://github.com/morgunovtech/social-tracker-bot",
-    "what": "Telegram bot that watches your social accounts: followers on Telegram, YouTube, Instagram and LinkedIn with weekly reports and forecasts, your channel's joins, posts and reactions, plus account protection — profile-change alerts, comment moderation cards, security-email alerts and a 2FA checklist.",
+    "what": "Telegram bot that watches your social accounts: followers on Telegram, YouTube, Instagram and LinkedIn with weekly reports and forecasts, your channel's joins, posts and reactions, account protection — profile-change alerts, comment moderation cards, security-email alerts and a 2FA checklist — and a weekly reputation report: brand searches on Google and Yandex and how often AI assistants open your pages.",
     "for": "Creators and professionals growing an audience"
   },
   {
