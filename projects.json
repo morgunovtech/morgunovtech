@@ -21,13 +21,6 @@
     "for": "People who want to see how they are tracked"
   },
   {
-    "name": "Good Pass",
-    "repo": "good-pass",
-    "url": "https://good-pass.morgunov.tech/en/",
-    "what": "Explains password strength: entropy, crack time, a k-anonymous breach check, a generator and a memory trainer.",
-    "for": "Anyone who wants better passwords without a lecture"
-  },
-  {
     "name": "Social Tracker Bot",
     "repo": "social-tracker-bot",
     "url": "https://github.com/morgunovtech/social-tracker-bot",
@@ -47,12 +40,5 @@
     "url": "",
     "what": "CLI that audits a person's public digital footprint through six perception lenses.",
     "for": "People checking how they look online"
-  },
-  {
-    "name": "LatteDrop",
-    "repo": "LatteDrop",
-    "url": "https://github.com/morgunovtech/LatteDrop",
-    "what": "Beat-accurate music visualizer for macOS in the spirit of MilkDrop. Specification stage.",
-    "for": "Me — a personal tool, built in the open"
   }
 ]

@@ -14,14 +14,12 @@ I build small, useful tools around privacy, monitoring and security — and ship
 | **[TofsDevOps](https://github.com/morgunovtech/Tofs_DevOps_bot)** | Your personal DevOps in Telegram: uptime, SSL, DNS, broken links, search and AI-assistant visibility. Fixes what it can and stays quiet while everything is fine. | Owners of small sites and pet projects without a DevOps person | [Open source](https://github.com/morgunovtech/Tofs_DevOps_bot) · MIT | 2026‑11‑24 |
 | **[Found You](https://foundyou.morgunov.tech/en/)** | Shows what a photo gives away before you post it — EXIF, GPS, place context — and makes a clean copy. The photo never leaves your browser. | Anyone who shares photos online | [Open source](https://github.com/morgunovtech/FoundYou) · MIT | 2026‑11‑24 |
 | **[Fingerprint](https://fprint.morgunov.tech/en/)** | Shows what any website learns about you the moment you open it, how unique your browser is, and how to hide. | People who want to see how they are tracked | [Open source](https://github.com/morgunovtech/Fingerprint) · MIT | 2026‑11‑24 |
-| **[Good Pass](https://good-pass.morgunov.tech/en/)** | Explains password strength: entropy, crack time, a k-anonymous breach check, a generator and a memory trainer. | Anyone who wants better passwords without a lecture | [Open source](https://github.com/morgunovtech/good-pass) · MIT | 2026‑11‑24 |
 | **[Social Tracker Bot](https://github.com/morgunovtech/social-tracker-bot)** | Telegram bot that watches your social accounts: followers on Telegram, YouTube, Instagram and LinkedIn with weekly reports and forecasts, your channel's joins, posts and reactions, account protection — profile-change alerts, comment moderation cards, security-email alerts and a 2FA checklist — and a weekly reputation report: brand searches on Google and Yandex and how often AI assistants open your pages. | Creators and professionals growing an audience | [Open source](https://github.com/morgunovtech/social-tracker-bot) · MIT | 2026‑11‑24 |
 | **[morgunov.tech](https://s.morgunov.tech/en/)** | My site: zero-build pages, an edge CMS on Cloudflare Pages, KV and R2, and the design system the other projects share. | People who want to know who I am or work with me | [Open source](https://github.com/morgunovtech/about-me-page) · MIT | 2026‑11‑24 |
 | **Lenses** | CLI that audits a person's public digital footprint through six perception lenses. | People checking how they look online | Closed source | 2026‑11‑24 |
-| **[LatteDrop](https://github.com/morgunovtech/LatteDrop)** | Beat-accurate music visualizer for macOS in the spirit of MilkDrop. Specification stage. | Me — a personal tool, built in the open | [Open source](https://github.com/morgunovtech/LatteDrop) · MIT | 2026‑11‑24 |
 <!-- projects:end -->
 
-<sub>The Updated column refreshes itself every day from the GitHub API.</sub>
+<sub>The Updated column refreshes itself every day from the GitHub API for the open-source rows; the closed-source row is updated by hand.</sub>
 
 ## How I build
 
