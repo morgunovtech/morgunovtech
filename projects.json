@@ -9,21 +9,21 @@
   {
     "name": "Found You",
     "repo": "FoundYou",
-    "url": "https://foundyou.morgunov.tech",
+    "url": "https://foundyou.morgunov.tech/en/",
     "what": "Shows what a photo gives away before you post it — EXIF, GPS, place context — and makes a clean copy. The photo never leaves your browser.",
     "for": "Anyone who shares photos online"
   },
   {
     "name": "Fingerprint",
     "repo": "Fingerprint",
-    "url": "https://fprint.morgunov.tech",
+    "url": "https://fprint.morgunov.tech/en/",
     "what": "Shows what any website learns about you the moment you open it, how unique your browser is, and how to hide.",
     "for": "People who want to see how they are tracked"
   },
   {
     "name": "Good Pass",
     "repo": "good-pass",
-    "url": "https://good-pass.morgunov.tech",
+    "url": "https://good-pass.morgunov.tech/en/",
     "what": "Explains password strength: entropy, crack time, a k-anonymous breach check, a generator and a memory trainer.",
     "for": "Anyone who wants better passwords without a lecture"
   },
