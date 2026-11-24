@@ -1,0 +1,8 @@
+# Monthly PRs for the Actions. The script uses the standard library only,
+# so there is no pip ecosystem to watch. Nothing merges automatically.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly

@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  # Public repos get GitHub secret scanning, but a push protection miss or an
+  # old commit still slips through; gitleaks scans the whole history on every
+  # run so a leaked token fails the PR, not the audit.
+  secrets:
+    name: secrets
+    # The action lists the PR's commits through the API; the default token
+    # cannot read pull requests.
+    permissions:
+      contents: read
+      pull-requests: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: gitleaks/gitleaks-action@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # The script only runs for real with a token (update.yml); here it has to
+  # at least parse on the Python update.yml uses.
+  compile:
+    name: compile
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - run: python -m py_compile scripts/update_readme.py
