@@ -1,6 +1,6 @@
 # Semyon Morgunov
 
-I build small, useful tools around privacy, monitoring and security — and ship them. Every project below is live, deployed and maintained, most of them in the open.
+I build small, useful tools around privacy, monitoring and security — and ship them. Most of the projects below are live and maintained; the table says which are open source and when each was last updated.
 
 I design the products and write the code with [Claude Code](https://claude.com/claude-code) as my pair programmer.
 
