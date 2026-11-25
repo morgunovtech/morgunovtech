@@ -1,8 +1,8 @@
 # Semyon Morgunov
 
-I build small, useful tools around privacy, monitoring and security — and ship them. Most of the projects below are live and maintained; the table says which are open source and when each was last updated.
+I build small, useful tools around privacy, monitoring and security. Most of the projects below are live and maintained; the table says which are open source and when each was last updated.
 
-[Claude Code](https://claude.com/claude-code) writes the code; the decisions are mine: what to build and what not to, what the product says, what leaves the server and what gets merged.
+[Claude Code](https://claude.com/claude-code) writes the code; the product decisions are mine.
 
 [s.morgunov.tech](https://s.morgunov.tech/en/) · [LinkedIn](https://www.linkedin.com/in/semyon-morgunov/) · s@morgunov.tech · Tashkent
 
