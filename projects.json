@@ -17,14 +17,14 @@
     "name": "Fingerprint",
     "repo": "Fingerprint",
     "url": "https://fprint.morgunov.tech/en/",
-    "what": "Shows what any website learns about you the moment you open it, how unique your browser is, and how to hide.",
-    "for": "People who want to see how they are tracked"
+    "what": "Online privacy in six steps, from opening your laptop to a loaded site: who learns what about you at each step, shown on your real data, and what to do about it.",
+    "for": "Non-technical people who want to see who learns what about them online"
   },
   {
     "name": "Social Tracker Bot",
     "repo": "social-tracker-bot",
     "url": "https://github.com/morgunovtech/social-tracker-bot",
-    "what": "Telegram bot that watches your social accounts: followers on Telegram, YouTube, Instagram and LinkedIn with weekly reports and forecasts, your channel's joins, posts and reactions, account protection — profile-change alerts, comment moderation cards, security-email alerts and a 2FA checklist — and a weekly reputation report: brand searches on Google and Yandex and how often AI assistants open your pages.",
+    "what": "Self-hosted Telegram bot for your social accounts: followers on Telegram, YouTube, Instagram and LinkedIn, the life of your channel, account security alerts and a weekly reputation report.",
     "for": "Creators and professionals growing an audience"
   },
   {
