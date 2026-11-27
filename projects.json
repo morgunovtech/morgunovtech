@@ -3,7 +3,7 @@
     "name": "TofsDevOps",
     "repo": "Tofs_DevOps_bot",
     "url": "https://github.com/morgunovtech/Tofs_DevOps_bot",
-    "what": "Your personal DevOps in Telegram. If your site goes down, its certificate is about to expire or search engines and AI assistants stop seeing it, the bot tells you first and explains in plain words what to do. It fixes what it can and stays quiet while all is well.",
+    "what": "Website monitoring for people who have never heard of DNS or a 502. If your site goes down, its certificate is about to expire or search engines and AI assistants stop seeing it, the bot tells you first and explains in plain words what to do. It fixes what it can and stays quiet while all is well.",
     "for": "Owners of small sites and pet projects without a DevOps person"
   },
   {
