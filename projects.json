@@ -3,28 +3,28 @@
     "name": "TofsDevOps",
     "repo": "Tofs_DevOps_bot",
     "url": "https://github.com/morgunovtech/Tofs_DevOps_bot",
-    "what": "Your personal DevOps in Telegram: uptime, SSL, DNS, broken links, search and AI-assistant visibility. Fixes what it can and stays quiet while everything is fine.",
+    "what": "Your personal DevOps in Telegram. If your site goes down, its certificate is about to expire or search engines and AI assistants stop seeing it, the bot tells you first and explains in plain words what to do. It fixes what it can and stays quiet while all is well.",
     "for": "Owners of small sites and pet projects without a DevOps person"
   },
   {
     "name": "Found You",
     "repo": "FoundYou",
     "url": "https://foundyou.morgunov.tech/en/",
-    "what": "Shows what a photo gives away before you post it — EXIF, GPS, place context — and makes a clean copy. The photo never leaves your browser.",
+    "what": "Before you post a photo, see what it gives away: the place, the time, your phone and the people in it. The app makes a clean copy, and the file never leaves your device.",
     "for": "Anyone who shares photos online"
   },
   {
     "name": "Fingerprint",
     "repo": "Fingerprint",
     "url": "https://fprint.morgunov.tech/en/",
-    "what": "Online privacy in six steps, from opening your laptop to a loaded site: who learns what about you at each step, shown on your real data, and what to do about it.",
+    "what": "What gets learned about you while a website opens: six steps from switching on your laptop to a loaded page, on your real data and in plain words — and what to do at each step.",
     "for": "Non-technical people who want to see who learns what about them online"
   },
   {
     "name": "Social Tracker Bot",
     "repo": "social-tracker-bot",
     "url": "https://github.com/morgunovtech/social-tracker-bot",
-    "what": "Self-hosted Telegram bot for your social accounts: followers on Telegram, YouTube, Instagram and LinkedIn, the life of your channel, account security alerts and a weekly reputation report.",
+    "what": "Your followers on Telegram, YouTube, Instagram and LinkedIn in one weekly report. The bot warns you at once if someone tries to take over an account or a comment appears that can get your group blocked. It stays quiet while all is well.",
     "for": "Creators and professionals growing an audience"
   },
   {
